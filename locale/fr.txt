@@ -1,0 +1,26 @@
+#: locale=fr
+
+## Tour
+
+### Description
+
+### Title
+tour.name = SCHMITT3
+
+## Skin
+
+### Label
+label4056.text = SCHMITT
+
+## Media
+
+### Title
+panorama_812BFFC5_8BCF_216A_41CA_59775B390CB3.label = CHAMBRE
+panorama_8213B8D8_8BCF_2F1A_41D0_5F89D9A9BD49.label = ENTREE
+panorama_821640B5_8BCF_1F15_41D3_A601A1CAAE95.label = SALON TV
+panorama_82166974_8BCE_E12B_41CF_09E6C3563153.label = SEJOUR
+
+## Action
+
+### URL
+LinkBehaviour_A4D1DCCC_BF24_0354_41BC_7B57F239723C.source = https://t3architecture.fr/
